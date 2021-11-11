@@ -32,7 +32,7 @@
 
 <style >
 
-ul a.nuxt-link-exact-active {
+nav ul a.nuxt-link-exact-active {
   @apply text-blue-700 border-b border-blue-700;
 }
 
